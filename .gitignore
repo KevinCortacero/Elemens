@@ -23,6 +23,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -34,3 +35,22 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+elemens-unity/ProjectSettings/UnityConnectSettings.asset
+elemens-unity/ProjectSettings/TimeManager.asset
+elemens-unity/ProjectSettings/TagManager.asset
+elemens-unity/ProjectSettings/QualitySettings.asset
+elemens-unity/ProjectSettings/ProjectVersion.txt
+elemens-unity/ProjectSettings/ProjectSettings.asset
+elemens-unity/ProjectSettings/PresetManager.asset
+elemens-unity/ProjectSettings/Physics2DSettings.asset
+elemens-unity/ProjectSettings/NetworkManager.asset
+elemens-unity/ProjectSettings/NavMeshAreas.asset
+elemens-unity/ProjectSettings/InputManager.asset
+elemens-unity/ProjectSettings/GraphicsSettings.asset
+elemens-unity/ProjectSettings/EditorSettings.asset
+elemens-unity/ProjectSettings/EditorBuildSettings.asset
+elemens-unity/ProjectSettings/DynamicsManager.asset
+elemens-unity/ProjectSettings/ClusterInputManager.asset
+elemens-unity/ProjectSettings/AudioManager.asset
+elemens-unity/Packages/manifest.json
+elemens-unity/Assets/Scenes.meta
